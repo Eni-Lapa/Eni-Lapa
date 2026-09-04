@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Eni (Polikseni Lapa)
 
-<!--
-**Eni-Lapa/Eni-Lapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior software engineer, fullstack with a frontend core: React, TypeScript, Next.js, Node.js, PostgreSQL.
 
-Here are some ideas to get you started:
+5+ years shipping products across healthcare, fintech, government, and AI tooling. Highlights:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend of **ai+me**, a platform for testing and securing LLM applications: adversarial red team runs, guardrail monitoring, and LLM output evaluation dashboards
+- Custom **BLE bridge** between Garmin wearables and React Native for a Horizon Europe Parkinson's research project, built when no SDK support existed
+- Performance work that took a large scale platform from **Lighthouse 70 to 91**, with bundle size down 25% and TTFB down 35%
+
+Nearly all of my production work lives in private commercial codebases, so this profile is intentionally quiet. Currently building in the open:
+
+- **Flow**: an AI health journal agent. Vercel AI SDK, RAG with pgvector, Langfuse tracing, and a proper eval harness.
+
+📍 Greece | Albania · Open to relocation · [enilapa.com](https://enilapa.com) · [LinkedIn](https://www.linkedin.com/in/eni-lapa-9b649421b/)

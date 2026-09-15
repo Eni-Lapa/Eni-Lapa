@@ -12,4 +12,4 @@ Nearly all of my production work lives in private commercial codebases, so this 
 
 - **Flow**: an AI health journal agent. Vercel AI SDK, RAG with pgvector, Langfuse tracing, and a proper eval harness.
 
-📍 Greece | Albania · Open to relocation · [enilapa.com](https://enilapa.com) · [LinkedIn](https://www.linkedin.com/in/eni-lapa-9b649421b/)
+📍 Greece | Albania · Open to relocation · [enilapa.com](https://enilapa.com) · [LinkedIn](https://www.linkedin.com/in/polikseni-lapa-9b649421b/)
